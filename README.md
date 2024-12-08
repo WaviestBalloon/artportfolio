@@ -59,3 +59,5 @@ Feel free to check [issues](https://github.com/satvikvirmani/nextjs-artist-portf
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+meowing rn
